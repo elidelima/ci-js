@@ -1,0 +1,1 @@
+Challenge Pipeline de CI com SonarCloud
